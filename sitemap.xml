@@ -6,21 +6,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/0.1.1-SNAPSHOT/kinta-cli/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/0.1.1-SNAPSHOT/kinta-lib/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/0.1.1-SNAPSHOT/kinta-workflows/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://dailymotion.github.com/kinta/kdoc/master/kinta-cli/</loc>
      <lastmod>2020-02-07</lastmod>
      <changefreq>daily</changefreq>
@@ -32,6 +17,21 @@
     </url>
     <url>
      <loc>https://dailymotion.github.com/kinta/kdoc/master/kinta-workflows/</loc>
+     <lastmod>2020-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://dailymotion.github.com/kinta/kdoc/0.1.1-SNAPSHOT/kinta-cli/</loc>
+     <lastmod>2020-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://dailymotion.github.com/kinta/kdoc/0.1.1-SNAPSHOT/kinta-lib/</loc>
+     <lastmod>2020-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://dailymotion.github.com/kinta/kdoc/0.1.1-SNAPSHOT/kinta-workflows/</loc>
      <lastmod>2020-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
