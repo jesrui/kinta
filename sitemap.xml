@@ -6,147 +6,32 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-cli/alltypes/</loc>
+     <loc>https://dailymotion.github.com/kinta/kdoc/0.1.1-SNAPSHOT/kinta-cli/</loc>
      <lastmod>2020-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-cli/com.dailymotion.kinta/</loc>
+     <loc>https://dailymotion.github.com/kinta/kdoc/0.1.1-SNAPSHOT/kinta-lib/</loc>
      <lastmod>2020-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-cli/com.dailymotion.kinta.command/</loc>
+     <loc>https://dailymotion.github.com/kinta/kdoc/0.1.1-SNAPSHOT/kinta-workflows/</loc>
      <lastmod>2020-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-cli/com.dailymotion.kinta.infra/</loc>
+     <loc>https://dailymotion.github.com/kinta/kdoc/master/kinta-cli/</loc>
      <lastmod>2020-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/alltypes/</loc>
+     <loc>https://dailymotion.github.com/kinta/kdoc/master/kinta-lib/</loc>
      <lastmod>2020-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.extension/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.helper/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.adb/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.appcenter/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.bitrise/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.commandline/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.gcp/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.git/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.git.internal/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.github/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.github.internal/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.googleplay/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.gradle/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.jira/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.jira.internal/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.slack/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.transifex/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.integration.transifex.internal.model/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-lib/com.dailymotion.kinta.type/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-workflows/alltypes/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-workflows/com.dailymotion.kinta.workflows/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-workflows/com.dailymotion.kinta.workflows.builtin/</loc>
-     <lastmod>2020-02-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dailymotion.github.com/kinta/kdoc/kinta-workflows/com.dailymotion.kinta.workflows.builtin.playstore/</loc>
+     <loc>https://dailymotion.github.com/kinta/kdoc/master/kinta-workflows/</loc>
      <lastmod>2020-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
